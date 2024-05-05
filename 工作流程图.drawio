@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T12:49:07.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ITuZTBASEOcSL0jCIciv" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T12:49:42.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="u1r4-jzigebPjaTvpwm4" version="24.3.1" type="github">
   <diagram name="第 1 页" id="xx-fUKgQVGqsyc7XwQPO">
-    <mxGraphModel dx="827" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="973" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,6 +47,12 @@
         </mxCell>
         <mxCell id="zIxQJg02RTwEDSs-chEC-18" value="附加元数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=28;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="800" y="265" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="870" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-20" value="逻辑处理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
