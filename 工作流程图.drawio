@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T12:49:55.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="hg1KYkHOGhSAcOLIhZfD" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T12:51:27.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="WgAA3kyauRw7Mfj9MQck" version="24.3.1" type="github">
   <diagram name="第 1 页" id="xx-fUKgQVGqsyc7XwQPO">
     <mxGraphModel dx="973" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,10 +49,31 @@
           <mxGeometry x="800" y="265" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zIxQJg02RTwEDSs-chEC-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="370" width="870" height="250" as="geometry" />
+          <mxGeometry x="30" y="370" width="870" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zIxQJg02RTwEDSs-chEC-20" value="逻辑处理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=33;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-21" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;ML模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=Times New Roman;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="580" y="385" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-22" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;漏洞建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=Times New Roman;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="240" y="385" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-23" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;漏洞分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=Times New Roman;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-24" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;漏洞测试&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=Times New Roman;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-25" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;漏洞报告&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=Times New Roman;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="650" y="490" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-26" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;漏洞验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=Times New Roman;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zIxQJg02RTwEDSs-chEC-27" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;自动化修复策略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=Times New Roman;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
