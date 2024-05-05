@@ -1,20 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T13:08:38.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="MkDbZ5Hrv0pgJd__CNPM" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T13:18:48.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="zf-wgMXJ_slljaAhdmbn" version="24.3.1" type="github">
   <diagram name="第 1 页" id="t0DqELkXgMo1yK1vmhEP">
     <mxGraphModel dx="1181" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-53" value="通用代码大模型分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="90" height="580" as="geometry" />
+        </mxCell>
         <mxCell id="w5uutKhLg4fIQeWmkBKa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;dashed=1;dashPattern=1 1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="30" y="190" width="870" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w5uutKhLg4fIQeWmkBKa-2" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=33;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="120" height="20" as="geometry" />
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-55" value="&lt;font style=&quot;font-size: 36px; font-weight: normal;&quot;&gt;通用代码大模型微调分系统&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=5;startSize=90;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="790" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-61" value="" style="swimlane;startSize=0;fillColor=none;strokeWidth=3;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-55">
+          <mxGeometry x="10" y="460" width="770" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;修复策略建议&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-61">
+          <mxGeometry x="10" y="50" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-59" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;修复代码自动化生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-61">
+          <mxGeometry x="220" y="50" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-60" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;性能和安全性验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-61">
+          <mxGeometry x="530" y="50" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-2" value="漏洞修复代码生成模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-61">
+          <mxGeometry x="10" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-62" value="" style="swimlane;startSize=0;fillColor=none;strokeWidth=3;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-55">
+          <mxGeometry x="10" y="280" width="770" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-63" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;漏洞场景建模&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-62">
+          <mxGeometry x="10" y="50" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-64" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;自然语言处理交互&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-62">
+          <mxGeometry x="210" y="50" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-65" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;自动化代码生成和测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-62">
+          <mxGeometry x="470" y="50" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-66" value="漏洞验证代码生成模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-62">
+          <mxGeometry x="10" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-67" value="" style="swimlane;startSize=0;fillColor=none;strokeWidth=3;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-55">
+          <mxGeometry x="10" y="100" width="770" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-68" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;预处理和特征提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-67">
+          <mxGeometry x="40" y="50" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-69" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;漏洞模式识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-67">
+          <mxGeometry x="320" y="50" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-70" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;误报和漏洞优化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-67">
+          <mxGeometry x="530" y="50" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5uutKhLg4fIQeWmkBKa-71" value="漏洞代码检测模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=33;" vertex="1" parent="w5uutKhLg4fIQeWmkBKa-67">
+          <mxGeometry x="10" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w5uutKhLg4fIQeWmkBKa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="w5uutKhLg4fIQeWmkBKa-4" target="w5uutKhLg4fIQeWmkBKa-6">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w5uutKhLg4fIQeWmkBKa-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;IDE/API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="1">
-          <mxGeometry x="170" y="60" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w5uutKhLg4fIQeWmkBKa-6" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Java&lt;/font&gt;、&lt;font face=&quot;Times New Roman&quot;&gt;C++&lt;/font&gt;分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2.5;fontFamily=宋体;fontSize=33;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="220" height="50" as="geometry" />
