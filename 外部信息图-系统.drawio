@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T13:42:47.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="rEMVQp7hhlgIpP_AQbuR" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T13:43:21.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="2gza_6ix1OhRW7zn6zyL" version="24.3.1" type="github">
   <diagram name="第 1 页" id="OOGk4Edy30xpu0UF8dnH">
     <mxGraphModel dx="1930" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,12 @@
         </mxCell>
         <mxCell id="JbQsOzcozaR5X5bZgTiB-19" value="典型漏洞代码&lt;div&gt;数据仓库&lt;/div&gt;&lt;div&gt;组件信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="710" y="180" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQsOzcozaR5X5bZgTiB-20" value="安全漏洞信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQsOzcozaR5X5bZgTiB-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;CI/CD&lt;/font&gt;管道" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="264" y="360" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
