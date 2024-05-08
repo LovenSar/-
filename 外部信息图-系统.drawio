@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T13:35:19.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="GRiNeXq8TOZTYz17p2JG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T13:37:38.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ks4lyvSl1Q1KcJ2svUWy" version="24.3.1" type="github">
   <diagram name="第 1 页" id="OOGk4Edy30xpu0UF8dnH">
-    <mxGraphModel>
+    <mxGraphModel dx="827" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JbQsOzcozaR5X5bZgTiB-1" value="基于大语言模型的软件安全智能化检测实验平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=2;fontFamily=宋体;fontSize=23;fillStyle=dots;gradientColor=#b3b3b3;strokeColor=#666666;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="490" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
