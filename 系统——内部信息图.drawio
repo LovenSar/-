@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T13:13:14.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="27dAF9zXEeW1ur6c-oQc" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T13:14:28.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="yYKzvASe3UNM3ocUag_Q" version="24.3.1" type="github">
   <diagram name="第 1 页" id="zFuOqGqEBwxnhchcg1k2">
-    <mxGraphModel dx="1378" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="IkZd6Ox4Oat5EpxuOg7n-4" value="大模型应用分系统" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=default;fillColor=none;shadow=1;fontSize=23;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="410" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IkZd6Ox4Oat5EpxuOg7n-14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;模型参数、焦点代码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IkZd6Ox4Oat5EpxuOg7n-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;代码修改&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;建议&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="294" y="280" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
