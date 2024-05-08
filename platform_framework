@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T12:07:00.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="3MnVuQLiRXvlCAvg50Lh" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T12:07:09.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="5sTM2cl-MhYjDwlbe_ot" version="24.3.1" type="github">
   <diagram name="第 1 页" id="3l-UvGa9OGiBmBWTeAPK">
     <mxGraphModel dx="827" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-2" edge="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-3" edge="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-4" edge="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-5" edge="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" parent="1" source="z-WFbTnGg-ZSj7JpXww7-1" target="z-WFbTnGg-ZSj7JpXww7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-1" value="&lt;h2 style=&quot;margin: 0cm; text-indent: 0cm; break-after: avoid; font-size: 23px; font-family: &amp;quot;Times New Roman&amp;quot;, serif; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 23px;&quot;&gt;基于大语言模型的软件安全智能化检测实验平台&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=23;" parent="1" vertex="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-1" value="&lt;h2 style=&quot;margin: 0cm; text-indent: 0cm; break-after: avoid; font-size: 23px; font-family: &amp;quot;Times New Roman&amp;quot;, serif; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 23px;&quot;&gt;基于大语言模型的软件安全智能化检测实验平台&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="140" y="80" width="548" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-2" value="通用代码大模型分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-2" value="通用代码大模型分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="109" y="210" width="70" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-3" value="漏洞语料库分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-3" value="漏洞语料库分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="289" y="210" width="70" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-4" value="通用代码大模型微调分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-4" value="通用代码大模型微调分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="469" y="210" width="70" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="z-WFbTnGg-ZSj7JpXww7-5" value="大模型应用分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="z-WFbTnGg-ZSj7JpXww7-5" value="大模型应用分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=23;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="649" y="210" width="70" height="310" as="geometry" />
         </mxCell>
       </root>
