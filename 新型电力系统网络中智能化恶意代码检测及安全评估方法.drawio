@@ -1,32 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T02:02:07.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="uOjCRa9RNlQPVVxsISUx" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T02:03:53.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="lpNxmA_6u12SIqn7XDxP" version="24.4.6" type="github">
   <diagram name="第 1 页" id="9BHL2iZfONTejXkZVWIC">
     <mxGraphModel dx="1254" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6bbgUqb10xAO0LP9AUVm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6bbgUqb10xAO0LP9AUVm-1" target="6bbgUqb10xAO0LP9AUVm-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6bbgUqb10xAO0LP9AUVm-1" value="&lt;h2&gt;基于强化学习的电力终端恶意代码检测&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="148" y="180" width="532" height="60" as="geometry" />
+        <mxCell id="6bbgUqb10xAO0LP9AUVm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="6bbgUqb10xAO0LP9AUVm-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="330" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6bbgUqb10xAO0LP9AUVm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6bbgUqb10xAO0LP9AUVm-2" target="6bbgUqb10xAO0LP9AUVm-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6bbgUqb10xAO0LP9AUVm-2" value="&lt;h2&gt;基于强化学习的电力终端恶意代码检测&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="148" y="300" width="532" height="60" as="geometry" />
+          <mxGeometry x="148" y="390" width="532" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bbgUqb10xAO0LP9AUVm-3" value="&lt;h2&gt;基于&lt;span lang=&quot;EN-US&quot;&gt;RLHF&lt;/span&gt;技术的电力智能终端&lt;span lang=&quot;EN-US&quot;&gt;APT&lt;/span&gt;攻击检测与防御&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="148" y="420" width="532" height="60" as="geometry" />
+          <mxGeometry x="148" y="510" width="532" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TzQZ0hr8e3iL2BNSypwS-2" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;line-height:150%;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;安全评估框架&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="150" width="280" height="30" as="geometry" />
+        <mxCell id="TzQZ0hr8e3iL2BNSypwS-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="148" y="90" width="480" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TzQZ0hr8e3iL2BNSypwS-3" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;line-height:150%;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;脆弱性分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="195" width="280" height="30" as="geometry" />
+        <mxCell id="TzQZ0hr8e3iL2BNSypwS-2" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;line-height:150%;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;安全评估框架&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TzQZ0hr8e3iL2BNSypwS-10">
+          <mxGeometry y="170" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TzQZ0hr8e3iL2BNSypwS-4" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;line-height:150%;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;攻击模拟&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="240" width="280" height="30" as="geometry" />
+        <mxCell id="TzQZ0hr8e3iL2BNSypwS-11" value="&lt;font face=&quot;等线&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;脆弱性分析&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TzQZ0hr8e3iL2BNSypwS-10">
+          <mxGeometry x="160" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TzQZ0hr8e3iL2BNSypwS-15" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;line-height:150%;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;攻击模拟&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TzQZ0hr8e3iL2BNSypwS-10">
+          <mxGeometry x="320" y="170" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
