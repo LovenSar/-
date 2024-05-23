@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T02:00:52.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="xSNkhORV9QTLJIQcknGA" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T02:01:33.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ie6fVjIJ7YPI97E1JVWD" version="24.4.6" type="github">
   <diagram name="第 1 页" id="9BHL2iZfONTejXkZVWIC">
     <mxGraphModel dx="1254" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="6bbgUqb10xAO0LP9AUVm-3" value="&lt;h2&gt;基于&lt;span lang=&quot;EN-US&quot;&gt;RLHF&lt;/span&gt;技术的电力智能终端&lt;span lang=&quot;EN-US&quot;&gt;APT&lt;/span&gt;攻击检测与防御&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="148" y="420" width="532" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzQZ0hr8e3iL2BNSypwS-2" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;line-height:150%;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;安全评估框架&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="130" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
