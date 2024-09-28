@@ -216,14 +216,11 @@
         <mxCell id="0HscJDK9ijoEULKKqR28-111" value="··· ···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="704" y="494.5" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0HscJDK9ijoEULKKqR28-114" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;固件提取和预处理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="0HscJDK9ijoEULKKqR28-114" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;固件模拟与节点管理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="519.5" y="790.5" width="211" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="318.5" y="110" width="940" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="0HscJDK9ijoEULKKqR28-116" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;模拟输出&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="842" y="399.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-117" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 9.75pt;&quot;&gt;PTP4L&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;gradientColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="816" y="439.5" width="90" height="40" as="geometry" />
