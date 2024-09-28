@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0HscJDK9ijoEULKKqR28-109" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.56;dx=20.33;direction=north;notch=0;gradientColor=#E6E6E6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="631" width="26" height="35" as="geometry" />
+        </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-112" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="280" y="380" width="830" height="440" as="geometry" />
         </mxCell>
@@ -209,9 +212,6 @@
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-86" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#a8bba2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="943" y="389" width="160" height="241" as="geometry" />
-        </mxCell>
-        <mxCell id="0HscJDK9ijoEULKKqR28-109" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.56;dx=20.33;direction=north;notch=0;gradientColor=#E6E6E6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="998" y="629.5" width="26" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-114" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;固件模拟与节点管理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="589.5" y="783" width="211" height="29.5" as="geometry" />
