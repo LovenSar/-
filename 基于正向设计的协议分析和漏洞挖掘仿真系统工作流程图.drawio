@@ -163,7 +163,7 @@
         <mxCell id="0HscJDK9ijoEULKKqR28-6" value="" style="whiteSpace=wrap;html=1;textShadow=0;gradientColor=#A8BBA2;gradientDirection=south;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="290" y="665" width="410" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="0HscJDK9ijoEULKKqR28-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;固件模拟与节点管理模块(节点1)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0HscJDK9ijoEULKKqR28-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;固件模拟部分(节点1)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="389" y="665" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;gradientColor=#84947f;gradientDirection=west;" vertex="1" parent="1">
@@ -201,7 +201,7 @@
         <mxCell id="0HscJDK9ijoEULKKqR28-75" value="" style="whiteSpace=wrap;html=1;textShadow=0;gradientColor=#A8BBA2;gradientDirection=south;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="790" y="664.5" width="410" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="0HscJDK9ijoEULKKqR28-76" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;固件模拟与节点管理模块(节点2)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0HscJDK9ijoEULKKqR28-76" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;固件模拟部分(节点2)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="889" y="664.5" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;gradientColor=#84947f;gradientDirection=west;" vertex="1" parent="1">
@@ -325,6 +325,12 @@
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-111" value="··· ···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="704" y="494.5" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-112" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660" width="940" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-114" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;固件提取和预处理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="784" width="211" height="29.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
