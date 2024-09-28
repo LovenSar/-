@@ -157,6 +157,9 @@
         <mxCell id="0HscJDK9ijoEULKKqR28-57" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;固件提取和预处理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="16" y="514.75" width="26" height="145.5" as="geometry" />
         </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;gradientColor=#aec0a9;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="300" y="694" width="390" height="76" as="geometry" />
+        </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-59" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290" y="665" width="410" height="111" as="geometry" />
         </mxCell>
@@ -197,9 +200,6 @@
         </mxCell>
         <mxCell id="0HscJDK9ijoEULKKqR28-71" value="··· ···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="704" y="704" width="86" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0HscJDK9ijoEULKKqR28-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="694" width="390" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
