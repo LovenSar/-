@@ -255,6 +255,9 @@
         <mxCell id="0HscJDK9ijoEULKKqR28-127" value="固件模拟&lt;div&gt;加载流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;gradientColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="844" y="714.75" width="80" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-128" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;输入数据/输出数据&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="796" y="404.5" width="144" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
