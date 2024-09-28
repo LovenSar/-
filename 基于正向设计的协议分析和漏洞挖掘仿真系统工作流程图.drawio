@@ -255,8 +255,26 @@
         <mxCell id="0HscJDK9ijoEULKKqR28-128" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;输入数据/输出数据&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="949" y="404.5" width="144" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0HscJDK9ijoEULKKqR28-134" value="" style="whiteSpace=wrap;html=1;textShadow=0;gradientColor=#A8BBA2;gradientDirection=south;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="779" y="664.5" width="160" height="111" as="geometry" />
+        <mxCell id="0HscJDK9ijoEULKKqR28-136" value="" style="whiteSpace=wrap;html=1;textShadow=0;gradientColor=#A8BBA2;gradientDirection=south;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="779" y="665" width="160" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-137" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;固件模拟部分(节点n)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="793.5" y="665.5" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-138" value="ROOTFS" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;gradientColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="811.5" y="700" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-139" value="ROOTFS" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;gradientColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="817" y="703.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-140" value="ROOTFS" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;gradientColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="823" y="706.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-141" value="ROOTFS" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;gradientColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="828" y="712" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="0HscJDK9ijoEULKKqR28-142" value="固件模拟&lt;div&gt;加载流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;gradientColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="833" y="715.25" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
